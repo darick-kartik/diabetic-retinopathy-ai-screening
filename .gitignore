@@ -32,3 +32,9 @@ dist/
 # OS
 Thumbs.db
 .DS_Store
+
+# Patient uploads and generated AI visualizations
+storage/
+
+# Experiment outputs and generated results
+results/
